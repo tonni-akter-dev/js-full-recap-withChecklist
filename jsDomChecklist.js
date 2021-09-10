@@ -59,3 +59,21 @@
 // ৪. স্ট্রিং কম্পেয়ার, স্লাইস করার সিস্টেম 
 
 // ৫. এরে স্লাইস, sort করার সিস্টেম 
+
+
+// uporeo bola thakle ignore..................
+/* 1.what is dom,event???????????
+2.event bubble,arguments,stop propagating---aita ki jinis ami jani na akhn janbo sathe 1 ta code o korbo promise...........
+3.how to create a delet confirmation button do you know i know you know it very well do it once again
+4.what is nexted function and how to use it tell me with an example and one line definition.............
+5.useful methods......................
+  5.1->String comparison using toLowerCase toUpperCase
+  5.2->Apply Search includes, indexOf, startswith, endswith
+  5.3->How to split, slice, substr, substring, concat, join
+  5.4->Check an Array using isArray, indexOf, includes, concat
+  5.5->Get part of an array and insert elements using slice, splice
+  5.6->Have fun with sort and reverse a javascript array
+  5.7->Unlimited parameters to a function using arguments
+  5.8->Different types of Error object and explore Try-catch
+  5.9->A simple introduction to Date object in JavaScript
+*/
